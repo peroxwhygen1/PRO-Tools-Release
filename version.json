@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.0.5/UG_Admin_Tools_v1.0.5_Setup.zip",
-  "changelog": "Додано перевірку оновлень у Налаштуваннях, створено фірмовий скляний діалог сповіщень та виправлено відображення версії."
+  "version": "1.0.6",
+  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.0.6/UG_Admin_Tools_v1.0.6_Setup.zip",
+  "changelog": "Тестовий випуск v1.0.6 для перевірки скляного діалогу та автоматичного встановлення."
 }
