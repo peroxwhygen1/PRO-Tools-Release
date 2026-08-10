@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.0.6/UG_Admin_Tools_v1.0.6_Setup.zip",
-  "changelog": "Тестовий випуск v1.0.6 для перевірки скляного діалогу та автоматичного встановлення."
+  "version": "1.0.7",
+  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.0.7/UG_Admin_Tools_v1.0.7_Setup.zip",
+  "changelog": "Додано клік наскрізь оверлеїв для взаємодії з кнопками під ними та вимкнено прилипання Windows Snap Assist."
 }
