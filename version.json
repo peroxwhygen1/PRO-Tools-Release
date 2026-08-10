@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.0.7/UG_Admin_Tools_v1.0.7_Setup.zip",
-  "changelog": "Додано клік наскрізь оверлеїв для взаємодії з кнопками під ними та вимкнено прилипання Windows Snap Assist."
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.0.8/UG_Admin_Tools_v1.0.8_Setup.zip",
+  "changelog": "Додано ланцюговий F8-рушій для Global біндів, кнопка 'Відправити' з діалогом підтвердження та зменшено висоту вікна репортів."
 }
