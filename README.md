@@ -1,4 +1,4 @@
-# 🚀 UG Admin Tools | Ukraine GTA Admin Panel
+# 🚀 PRO Tools
 
 > **Сучасний, швидкий та багатофункціональний помічник для адміністраторів Ukraine GTA**
 
