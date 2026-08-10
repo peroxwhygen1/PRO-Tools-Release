@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.0.9/UG_Admin_Tools_v1.0.9_Setup.zip",
-  "changelog": "Додано ланцюговий F8-рушій для Global біндів, кнопка 'Відправити' з діалогом підтвердження та зменшено висоту вікна репортів."
+  "version": "1.0.9.1",
+  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.0.9.1/UG_Admin_Tools_v1.0.9.1_Setup.zip",
+  "changelog": "Автоматичне видалення застарілих .dll файлів та переведення всіх користувачів на чисту однофайлову структуру."
 }
