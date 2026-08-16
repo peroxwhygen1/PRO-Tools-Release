@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0.4",
-  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.1.0.4/UG_Admin_Tools_v1.1.0.4_Setup.zip",
-  "changelog": "Повернено часове обмеження реклами у VIP-чаті з 11:00 до 21:00."
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.2.0/UG_Admin_Tools_v1.2.0_Setup.zip",
+  "changelog": "Повна рольова система (RBAC), авто-авторизація Telegram, вибір дати зльотів мишкою та Live-синхронізація рівнів."
 }
