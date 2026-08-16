@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0.0",
-  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.2.0.0/UG_Admin_Tools_v1.2.0.0_Setup.zip",
-  "changelog": "Повна рольова система (RBAC), авто-авторизація Telegram, вибір дати зльотів мишкою та Live-синхронізація рівнів."
+  "version": "1.2.1.0",
+  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.2.1.0/UG_Admin_Tools_v1.2.1.0_Setup.zip",
+  "changelog": "Вбудована база 154 правил, рольовий доступ (RBAC), авто-авторизація та Live-синхронізація у реальному часі."
 }
