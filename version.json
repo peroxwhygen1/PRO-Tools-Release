@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2.0",
-  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.2.2.0/UG_Admin_Tools_v1.2.2.0_Setup.zip",
-  "changelog": "Покращено асинхронне зчитування VIP-чату 24/7, чіткість шрифтів дашборду та модуль безшовних оновлень."
+  "version": "1.2.2.1",
+  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.2.2.1/UG_Admin_Tools_v1.2.2.1_Setup.zip",
+  "changelog": "Виправлено перевизначення статусу репортів 'Без відповіді' при наданні відповіді у грі."
 }
