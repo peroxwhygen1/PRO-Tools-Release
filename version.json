@@ -1,5 +1,1 @@
-{
-  "version": "1.2.2.1",
-  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.2.2.1/UG_Admin_Tools_v1.2.2.1_Setup.zip",
-  "changelog": "Р’РёРїСЂР°РІР»РµРЅРѕ РїРµСЂРµРІРёР·РЅР°С‡РµРЅРЅСЏ СЃС‚Р°С‚СѓСЃСѓ СЂРµРїРѕСЂС‚С–РІ 'Р‘РµР· РІС–РґРїРѕРІС–РґС–' РїСЂРё РЅР°РґР°РЅРЅС– РІС–РґРїРѕРІС–РґС– Сѓ РіСЂС–."
-}
+{"version":"1.2.2.3","downloadUrl":"https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.2.2.3/UG_Admin_Tools_v1.2.2.3_Setup.zip","changelog":"Повністю відновлено нативний C# WPF функціонал, виправлено авто-підхоплення форм та гарячі клавіші"}
