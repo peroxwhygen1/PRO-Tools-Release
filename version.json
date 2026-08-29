@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2.8",
-  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.2.2.8/UG_Admin_Tools_v1.2.2.8_Setup.zip",
-  "changelog": "👑 Додано нове відображення рівня доступу | 🎨 Оновлення дизайну застосунку | ⚡ Додавання статусу завантаження оновлення"
+  "version": "1.2.2.9",
+  "downloadUrl": "https://github.com/peroxwhygen1/PRO-Tools-Release/releases/download/v1.2.2.9/UG_Admin_Tools_v1.2.2.9_Setup.zip",
+  "changelog": "Чисте автоматичне оновлення з бекапом конфігів, плавний прогрес-бар та нові посади"
 }
